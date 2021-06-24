@@ -38,6 +38,8 @@ The proposed lifelong learning framework is applied in  supervised, semi-supervi
 ![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t1.png)
 ![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t2.png)
 
+# Learning on the complicated tasks
+
 ![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t3.png)
 ![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t4.png)
 
