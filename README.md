@@ -28,3 +28,8 @@ The proposed lifelong learning framework is applied in  supervised, semi-supervi
 1. Tensorflow 1.5
 2. Python 3.6
 
+
+# The network architecture of Lifelong Teacher-Student Network
+
+
+
