@@ -41,9 +41,15 @@ The proposed lifelong learning framework is applied in  supervised, semi-supervi
 # Learning on the complicated tasks
 
 ![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t3.png)
+
+# Capture both the shared and task-specific information
+
 ![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t4.png)
 
 ![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t5.png)
+
+# Learning disentangled representation across domain under lifelong learning
+
 ![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t6.png)
 
 ![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t7.png)
