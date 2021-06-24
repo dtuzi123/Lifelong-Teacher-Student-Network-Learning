@@ -33,5 +33,21 @@ The proposed lifelong learning framework is applied in  supervised, semi-supervi
 
 ![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/mainStructure.png)
 
+# Learning new concepts without forgetting
+
+![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t1.png)
+![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t2.png)
+
+![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t3.png)
+![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t4.png)
+
+![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t5.png)
+![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t6.png)
+
+![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t7.png)
+![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t8.png)
+
+
+
 
 
