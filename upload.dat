@@ -1,0 +1,1 @@
+pscp -r my1.sh fy689@viking.york.ac.uk:scratch/

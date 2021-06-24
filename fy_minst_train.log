@@ -1,0 +1,8 @@
+Running gaussian-test on 8 CPU cores
+Using TensorFlow backend.
+Traceback (most recent call last):
+  File "TeacherStudent_LongerTasks.py", line 684, in <module>
+    infoMultiGAN = LifeLone_MNIST()
+  File "TeacherStudent_LongerTasks.py", line 278, in __init__
+    self.InverseFashionTrainX,self.InverseFashionTrainLabels = Give_InverseFashion()
+NameError: name 'Give_InverseFashion' is not defined
