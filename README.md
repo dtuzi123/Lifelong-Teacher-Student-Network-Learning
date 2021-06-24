@@ -31,5 +31,7 @@ The proposed lifelong learning framework is applied in  supervised, semi-supervi
 
 # The network architecture of Lifelong Teacher-Student Network
 
+![image](https://github.com/dtuzi123/InfoVAEGAN/blob/master/mainStructure)
+
 
 
