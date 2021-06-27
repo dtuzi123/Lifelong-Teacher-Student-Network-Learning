@@ -5,7 +5,7 @@ Title : Lifelong Teacher-Student Network Learning
 
 # Paper link
 
-
+https://ieeexplore.ieee.org/document/9465640
 
 # Abstract
 
@@ -28,6 +28,9 @@ The proposed lifelong learning framework is applied in  supervised, semi-supervi
 1. Tensorflow 1.5
 2. Python 3.6
 
+# BibTeX
+
+@ARTICLE{9465640,  author={Ye, Fei and Bors, Adrian},  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},   title={Lifelong Teacher-Student Network Learning},   year={2021},  volume={},  number={},  pages={1-1},  doi={10.1109/TPAMI.2021.3092677}}
 
 # The network architecture of Lifelong Teacher-Student Network
 
