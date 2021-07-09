@@ -34,6 +34,8 @@ To train the model(s) in the paper, run this command:
 python TeacherStudent_xxx.py
 ```
 
+Ye, Fei, and Adrian Bors. "Lifelong Teacher-Student Network Learning." IEEE Transactions on Pattern Analysis and Machine Intelligence (2021).
+
 # BibTeX
 
 @ARTICLE{9465640,  author={Ye, Fei and Bors, Adrian},  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},   title={Lifelong Teacher-Student Network Learning},   year={2021},  volume={},  number={},  pages={1-1},  doi={10.1109/TPAMI.2021.3092677}}
