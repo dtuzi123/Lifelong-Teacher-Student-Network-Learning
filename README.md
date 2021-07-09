@@ -1,11 +1,8 @@
-# Lifelong-Teacher-Student-Network-Learning
-The implementation of Lifelong Teacher-Student Network Learning
+>📋 The implementation of Lifelong Teacher-Student Network Learning
 
-Title : Lifelong Teacher-Student Network Learning
+# Title : Lifelong Teacher-Student Network Learning
 
-# Paper link
-
-https://ieeexplore.ieee.org/document/9465640
+This repository is the implementation of [Lifelong Teacher-Student Network Learning](https://ieeexplore.ieee.org/document/9465640).
 
 # Abstract
 
@@ -27,6 +24,15 @@ The proposed lifelong learning framework is applied in  supervised, semi-supervi
 
 1. Tensorflow 1.5
 2. Python 3.6
+
+
+## Training
+
+To train the model(s) in the paper, run this command:
+
+```train
+python TeacherStudent_xxx.py
+```
 
 # BibTeX
 
