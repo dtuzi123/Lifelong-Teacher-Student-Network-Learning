@@ -42,6 +42,10 @@ python TeacherStudent_xxx.py
 
 ![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/mainStructure.png)
 
+## Results
+
+We provide some intesting visual results on many popular datasets.
+
 # Learning new concepts without forgetting
 
 ![image](https://github.com/dtuzi123/Lifelong-Teacher-Student-Network-Learning/blob/main/t1.png)
